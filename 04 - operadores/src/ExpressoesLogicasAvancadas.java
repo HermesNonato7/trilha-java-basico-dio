@@ -14,7 +14,7 @@ public class ExpressoesLogicasAvancadas {
 
         //O mesmo acontece com o operador | e || , considerando que operador, agora representa que se uma das alternativas for verdadeira, a outra nem precisa ser avaliada.
        
-        /* Aprendemos sobre os operadores lógico
+        /* Aprendemos sobre os operadores lógico.
          if (condicao1 && condicao2) e if(condicao1 || condicao2) ?
          A duplicidade nos operadores lógicos é um recurso conhecido como Operador
          Abreviado, isso quer dizer que, se a condição1 atender aos critérios, não será
