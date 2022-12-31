@@ -1,8 +1,5 @@
 public class OperadoresAritmeticos {
-    /**
-     * @param args
-     * @throws Exception
-     */
+    
     public static void main(String[] args) throws Exception {
 
         // Aritméticos
