@@ -19,7 +19,7 @@ public class OperadoresRelacionais {
         if (numero1 != numero2)
             System.out.print("Numero 1 é diferente de numero 2\n");
 
-        // Utilizando o método EQUALS é possível comparar conteúdos, inclusive de objetos.
+        // Utilizando o método "EQUALS" é possível comparar conteúdos, inclusive de objetos.
         String nomeUm = "Hermes";
         String nomeDois = new String("Hermes");
 
