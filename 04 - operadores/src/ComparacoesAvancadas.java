@@ -7,15 +7,15 @@ public class ComparacoesAvancadas {
         String nome1 = "JAVA";
         String nome2 = "JAVA";
 
-        System.out.println(nome1 == nome2); // true
+            System.out.println(nome1 == nome2); // true
 
         String nome3 = new String("JAVA");
 
-        System.out.println(nome1 == nome3); // false
+            System.out.println(nome1 == nome3); // false
 
         String nome4 = nome3;
 
-        System.out.println(nome3 == nome4); // true
+            System.out.println(nome3 == nome4); // true
 
         // equals na parada
         System.out.println(nome1.equals(nome2)); // ??
@@ -27,19 +27,19 @@ public class ComparacoesAvancadas {
         // seguidas pela linguagem **** , exemplo:
         int numero7 = 130;
         int numero8 = 130;
-        System.out.println(numero7 == numero8); // true
+            System.out.println(numero7 == numero8); // true
 
         Integer numero5 = 130;
         Integer numero6 = 130;
 
-        System.out.println(numero5 == numero6); // false
+            System.out.println(numero5 == numero6); // false
 
         // A razão pela qual o resultado é false, é devido o Java tratar os valores
         // Como objetos a partir de agora.
         // Qual a solução ?
         // Quando queremos comparar objetos, usamos o método equals
 
-        System.out.println(numero5.equals(numero6));
+            System.out.println(numero5.equals(numero6));
 
     }
 }
