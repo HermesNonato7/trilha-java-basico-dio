@@ -1,5 +1,6 @@
 public class OperadoresUnarios {
     public static void main(String[] args) {
+        
         // para tornar o numero negativo, deve ser negado (-) a variável
 
         int numero = 5;
@@ -37,7 +38,7 @@ public class OperadoresUnarios {
         // inverter o boolean
         boolean verdadeiro = true;
 
-        System.out.println(!verdadeiro); // somente em memoria, não altera a variável
+        System.out.println(!verdadeiro); // não altera a variável
 
         // maneiro correta de inverter um boolean
         verdadeiro = !verdadeiro;
