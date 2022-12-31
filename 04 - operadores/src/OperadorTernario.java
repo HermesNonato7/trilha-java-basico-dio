@@ -16,7 +16,7 @@ public class OperadorTernario {
          */
 
         // MESMA CONDICIONAL, MAS DESSA VEZ, UTILIZANDO O OPERADOR CONDICIONAL TERNÁRIO
-        String resultado = (a == b) ? "verdadeiro" : "false";
+        String resultado = (a == b) ? "verdadeiro" : "falso";
 
         // int resultado = a == b ? 1 : 0;
 
