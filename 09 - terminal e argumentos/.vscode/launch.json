@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AboutMeScanner",
+            "request": "launch",
+            "mainClass": "AboutMeScanner",
+            "projectName": "09 - terminal e argumentos_a03075ee"
+        },
+        {
+            "type": "java",
             "name": "Launch MinhaClasse",
             "request": "launch",
             "mainClass": "09 - termenal e argumentos_a03075ee"
@@ -20,6 +27,6 @@
                 "36",
                 "1.73"
             ]
-        },
+        }
     ]
 }
