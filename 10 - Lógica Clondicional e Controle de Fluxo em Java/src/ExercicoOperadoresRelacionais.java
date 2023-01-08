@@ -1,10 +1,9 @@
 /**
  * Classe de exemplo para o exercico da Aula 1 de Operadores logicos e relacionais. Controle de fluxo e Blocos.
  */
-
-public class OperadoresRelacionais {
+public class ExercicoOperadoresRelacionais {
     public static void main(String[] args) {
-        
+
         int i1 = 10;
         int i2 = 20;
         float f1 = 4.5f;
