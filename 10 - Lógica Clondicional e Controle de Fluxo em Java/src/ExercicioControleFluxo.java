@@ -16,7 +16,7 @@ public static void main(String[] args) {
 
 private static void ifFlecha() {
 
-        int mes = 9;
+        int mes = 20;
         if (mes == 1) {
             System.out.println("Janeiro");
         } else {
@@ -52,6 +52,8 @@ private static void ifFlecha() {
                                                 } else {
                                                     if (mes == 12) {
                                                         System.out.println("Dezembro");
+                                                    } else {
+                                                        System.out.println("Mês Inválido!");
                                                     }
                                                 }
                                             }
@@ -160,7 +162,7 @@ public static void switchSemana() {
             System.out.println(1);
             break;
         default:
-            System.out.println(1);
+//            System.out.println(1);
                 System.out.println("Dia inválido.");
             break;
     }
