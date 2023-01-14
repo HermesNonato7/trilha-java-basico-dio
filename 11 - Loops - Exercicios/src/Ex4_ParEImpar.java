@@ -28,6 +28,6 @@ public class Ex4_ParEImpar {
         } while(count < quantNumeros);
 
         System.out.println("Quantidade de múmeros Pares: " + quantPares);        
-        System.out.println("Quantidade de múmeros Impares: " + quantImpares);    
+        System.out.println("Quantidade de múmeros Impares: " + quantImpares); 
     }    
 }
