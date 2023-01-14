@@ -20,6 +20,5 @@ public class Ex6_Fatorial {
         }
 
         System.out.println(multiplicacao);
-
     }
 }
