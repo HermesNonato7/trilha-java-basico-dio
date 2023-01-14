@@ -29,6 +29,5 @@ public class Ex3_MaiorEMedia {
         
         System.out.println("Maior: " + maior);
         System.out.println("Média: " + (soma/5));
-
     }
 }
