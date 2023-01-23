@@ -1,18 +1,20 @@
-## Getting Started
+## Exercício Aula 1: Criação
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Neste exercício foi proposto a criação de uma aplicação que resolva a seguinte situação:
+1. calcule as 4 operações básicas: soma, subtração, multiplicação e divisão. Sempre 2 valores devem ser passados.
+2. A partir da hora do dia, informe a mensagem adequada: Bom dia, Boa tarde, Boa noite.
+3. Calcule o valor final de um empréstimo, a partir do valor solicitado. Taxas e parcelas.
+Defina arbitrariamente as faixas que influenciam nos valores
 
-## Folder Structure
+## Exercício Aula 2: Sobrecarga
 
-The workspace contains two folders by default, where:
+Crie uma aplcação que calcula a área de 3 quariláteros notáveis: quadrado, retângulo e trapézio.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Obs. Use sobrecarga.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Exercício Aula 3: Retornos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Recrie a aplicação que calcula a área dos 3 quadrilateros notáveis. Agora faça com quê os métodos retornem valores.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Profesor Thiago Leite.
+Grato a Digital Innovation On pela curso!
