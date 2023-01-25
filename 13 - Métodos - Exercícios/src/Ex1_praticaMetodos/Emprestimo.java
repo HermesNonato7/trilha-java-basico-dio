@@ -1,4 +1,4 @@
-package praticaMetodos;
+package Ex1_praticaMetodos;
 
 public class Emprestimo {
     public static int getDuasParcelas() {

@@ -1,4 +1,4 @@
-package praticaMetodos;
+package Ex1_praticaMetodos;
 
 /**
  * Classe de exepmlo da Aula 1 de Métodos.

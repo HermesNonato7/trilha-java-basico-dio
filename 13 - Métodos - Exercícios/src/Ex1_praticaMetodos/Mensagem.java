@@ -1,4 +1,4 @@
-package praticaMetodos;
+package Ex1_praticaMetodos;
 
 public class Mensagem {
     
