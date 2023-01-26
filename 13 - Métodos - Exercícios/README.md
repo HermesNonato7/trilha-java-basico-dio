@@ -1,20 +1,20 @@
-## ExercÌcio Aula 1: CriaÁ„o
+## Exerc√≠cio Aula 1: Cria√ß√£o
 
-Neste exercÌcio foi proposto a criaÁ„o de uma aplicaÁ„o que resolva a seguinte situaÁ„o:
-1. calcule as 4 operaÁıes b·sicas: soma, subtraÁ„o, multiplicaÁ„o e divis„o. Sempre 2 valores devem ser passados.
+Neste exerc√≠cio foi proposto a cria√ß√£o de uma aplica√ß√£o que resolva a seguinte situa√ß√£o:
+1. calcule as 4 opera√ß√µes b√°sicas: soma, subtra√ß√£o, multiplica√ß√£o e divis√£o. Sempre 2 valores devem ser passados.
 2. A partir da hora do dia, informe a mensagem adequada: Bom dia, Boa tarde, Boa noite.
-3. Calcule o valor final de um emprÈstimo, a partir do valor solicitado. Taxas e parcelas.
+3. Calcule o valor final de um empr√©stimo, a partir do valor solicitado. Taxas e parcelas.
 Defina arbitrariamente as faixas que influenciam nos valores
 
-## ExercÌcio Aula 2: Sobrecarga
+## Exerc√≠cio Aula 2: Sobrecarga
 
-Crie uma aplcaÁ„o que calcula a ·rea de 3 quaril·teros not·veis: quadrado, ret‚ngulo e trapÈzio.
+Crie uma aplca√ß√£o que calcula a √°rea de 3 quaril√°teros not√°veis: quadrado, ret√¢ngulo e trap√©zio.
 
 Obs. Use sobrecarga.
 
-## ExercÌcio Aula 3: Retornos
+## Exerc√≠cio Aula 3: Retornos
 
-Recrie a aplicaÁ„o que calcula a ·rea dos 3 quadrilateros not·veis. Agora faÁa com quÍ os mÈtodos retornem valores.
+Recrie a aplica√ß√£o que calcula a √°rea dos 3 quadrilateros not√°veis. Agora fa√ßa com qu√™ os m√©todos retornem valores.
 
 Profesor Thiago Leite.
-Grato a Digital Innovation On pela curso!
+Grato a Digital Innovation On pelo curso!
