@@ -1,18 +1,20 @@
-## Getting Started
+GitHub
+Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, nos seguintes endereços:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+https://github.com/tlcdio/OOAula03.1.git
+https://github.com/tlcdio/OOAula03.2.git
+https://github.com/tlcdio/OOAula03.3.git
+https://github.com/tlcdio/OOAula03.4.git
+https://github.com/tlcdio/OOAula04.1.git
+https://github.com/tlcdio/OOAula04.2.git
+https://github.com/tlcdio/OOAula04.3.git
+https://github.com/tlcdio/OOAula04.4.git
+https://github.com/tlcdio/OOAula04.5.git
+https://github.com/tlcdio/OOAUla05.1.git
+https://github.com/tlcdio/OOAula05.2.git
 
-## Folder Structure
+Bons estudos! 
 
-The workspace contains two folders by default, where:
+Professor Thiago Leite- Digital Innovation One
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Grato!
