@@ -3,7 +3,7 @@ package ExercicioInterface;
 /**
  * Classe de exemplo  para o exercício da Aula 4 de Orientaçã a Objetos.
  */
-class Calculadora implements OperacaoMatematica {     
+class Calculadora implements OperacaoMatematica { 
     
 
     @Override

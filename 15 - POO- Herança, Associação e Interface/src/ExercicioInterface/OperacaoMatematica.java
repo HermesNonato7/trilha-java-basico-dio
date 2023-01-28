@@ -3,7 +3,6 @@ package ExercicioInterface;
 /**
  * Interface de exemplo da Aula 4- Programação Orientada a Objetos
  */
-
 interface OperacaoMatematica {       
     
 
