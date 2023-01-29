@@ -102,6 +102,6 @@ class ExemploList {
          * System.out.println("Mostre a primeira nota da nova lista removendo-o: ");
          */
 
-            // teste IntelliJ
+            // teste IntelliJ 4
     }
 }
