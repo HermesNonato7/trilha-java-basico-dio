@@ -1,15 +1,19 @@
 package List;
 
-import java.util.*;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Iterator;
+import java.util.List;
 
 class ExemploList {
     public static void main(String[] args) {
-        // Dada uma lista com 7 notas de um aluno [7, 8.5, 9.3, 5, 7, 0, 3.6], faça:
-
+        // Dada uma lista com 7 notas de um aluno [7, 8.5, 9.3, 5, 7, 0, 3.6], fa&ccedil;a:
         // List notas = new ArrayList(); //antes do java 5
         // ArrayList<Double> notas = new ArrayList<>();
         // List<Double> notas = new ArrayList<>(Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d,
         // 3.6));
+
         /*
          * List<Double> notas = Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6);
          * notas.add(10d);
@@ -46,11 +50,9 @@ class ExemploList {
 
         System.out.println("Confira se a nota 5.0 está na lista: " + notas.contains(5d));
 
-        /*
-         * System.out.println("Exiba todas as notas na ordem em que foram informados: "
-         * );
-         * for (Double nota : notas) System.out.println(nota);
-         */
+
+        System.out.println("Exiba todas as notas na ordem em que foram informados: ");
+        for (Double nota : notas) System.out.println(nota);
 
         System.out.println("Exiba a terceira nota adicionada: " + notas.get(2));
         System.out.println(notas.toString());
