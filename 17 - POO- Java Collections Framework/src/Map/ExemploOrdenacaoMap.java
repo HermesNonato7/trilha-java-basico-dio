@@ -9,6 +9,7 @@ Autor = Harari, Yuval Noah  - Livro = 21 Lições Para o Século 21, páginas: 4
 */
 
 import java.util.*;
+import java.util.Map;
 
 public class ExemploOrdenacaoMap {
     public static void main(String[] args) {
