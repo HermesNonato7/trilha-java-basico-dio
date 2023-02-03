@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/List/ExemploList.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/Map" charset="UTF-16" />
-    <file url="PROJECT" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/List/ExemploList.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Map" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Map/ExercicioProposto02.java" charset="ISO-8859-1" />
+    <file url="PROJECT" charset="ISO-8859-1" />
   </component>
 </project>
