@@ -44,7 +44,7 @@ public class ExemploOrdenacaoMap {
         for (Map.Entry<String, Livro> livro : meusLivros3)
             System.out.println(livro.getKey() + " - " + livro.getValue().getNome());
 
-//        System.out.println("--\tOrdem número de página\t--"); //Pra você
+//        System.out.println("--\tOrdem número de página\t--"); //Fazer depois.
 
     }
 }
