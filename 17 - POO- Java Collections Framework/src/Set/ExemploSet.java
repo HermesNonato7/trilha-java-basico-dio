@@ -20,7 +20,7 @@ public class ExemploSet {
         System.out.println(notas.toString());
 
 //        System.out.println("Exiba a posição da nota 5.0: ");
-
+//
 //        System.out.println("Adicione na lista a nota 8.0 na posição 4: ");
 
 //        System.out.println("Substitua a nota 5.0 pela nota 6.0: ");
