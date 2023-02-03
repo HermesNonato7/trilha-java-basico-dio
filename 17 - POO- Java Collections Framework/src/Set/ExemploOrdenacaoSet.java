@@ -15,7 +15,7 @@ public class ExemploOrdenacaoSet {
 
         System.out.println("--\tOrdem aleatória\t--");
         Set<Serie> minhasSeries = new HashSet<>(){{
-            add(new Serie("got", "fantasia", 60));
+            add(new Serie("got", "  fantasia", 60));
             add(new Serie("dark", "drama", 60));
             add(new Serie("that '70s show", "comédia", 25));
         }};
