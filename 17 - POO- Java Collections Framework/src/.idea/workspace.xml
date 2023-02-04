@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23d1408d-f6a7-4bf2-94d7-f6ea243c8e30" name="Changes" comment="Update ExerciosStreamAPI" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L0VV5CbfndGoU4tgYi0LgBgY2L" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/dio-java/java-basico-dio/18 - POO - Debugging",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23d1408d-f6a7-4bf2-94d7-f6ea243c8e30" name="Changes" comment="" />
+      <created>1675008010311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675008010311</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Teste IntelliJ 2">
+      <created>1675009684995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675009684995</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Teste IntelliJ 4">
+      <created>1675009923788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675009923788</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exemplo RefatoracaoOrdenacaoMap">
+      <created>1675123292710</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675123292710</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ExemploProposto01">
+      <created>1675216432489</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675216432489</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ExemploProposto02">
+      <created>1675216761413</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675216761413</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Exercício Set">
+      <created>1675218334483</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675218334483</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ordenacao Set">
+      <created>1675382785886</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675382785886</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ordenacao Set">
+      <created>1675382921333</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675382921333</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Remova as cores que NÃO COMEÇAM com a letra v">
+      <created>1675385432552</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675385432552</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final Set">
+      <created>1675385616600</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675385616600</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Exemplo Map">
+      <created>1675388530211</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675388530211</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ordenação Map">
+      <created>1675388653265</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675388653265</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ordenação Map">
+      <created>1675389271086</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675389271086</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Exemplo Refatoração Ordenação Map">
+      <created>1675461580014</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675461580014</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Final Exemplo Map">
+      <created>1675466112489</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675466112489</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update Map">
+      <created>1675466607447</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675466607447</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Exemplo RefatoracaoOrdenacaoMap">
+      <created>1675523206445</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675523206445</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update ExerciosStreamAPI">
+      <created>1675525181574</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675525181574</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Teste IntelliJ" />
+    <MESSAGE value="Teste IntelliJ 2" />
+    <MESSAGE value="Teste IntelliJ 3" />
+    <MESSAGE value="Teste IntelliJ 4" />
+    <MESSAGE value="ExemploProposto01" />
+    <MESSAGE value="ExemploProposto02" />
+    <MESSAGE value="Exercício Set" />
+    <MESSAGE value="Ordenacao Set" />
+    <MESSAGE value="Remova as cores que NÃO COMEÇAM com a letra v" />
+    <MESSAGE value="Final Set" />
+    <MESSAGE value="Exemplo Map" />
+    <MESSAGE value="Ordenação Map" />
+    <MESSAGE value="Exemplo Refatoração Ordenação Map" />
+    <MESSAGE value="Final Exemplo Map" />
+    <MESSAGE value="Update Map" />
+    <MESSAGE value="Exemplo RefatoracaoOrdenacaoMap" />
+    <MESSAGE value="Update ExerciosStreamAPI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update ExerciosStreamAPI" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
