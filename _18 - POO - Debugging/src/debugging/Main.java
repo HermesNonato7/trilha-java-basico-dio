@@ -23,6 +23,5 @@ public class Main {
         System.out.println("Entrou no método c.");
         //Thread.dumpStack();
         System.out.println("Finalizou o método c.");
-
     }
 }
