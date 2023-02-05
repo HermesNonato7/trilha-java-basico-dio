@@ -1,9 +1,9 @@
 <h1>Debugging Java</h1>
-<p>Curso que apresenta conceitos introdutórios sobre como podemos trabalhar com debugging na linguagem Java. 
-Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> ?? e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+<p>Curso que apresenta conceitos introdutÃ³rios sobre como podemos trabalhar com debugging na linguagem Java. 
+Curso este ministrado pela Professora Camila Cavalcanti em nome da <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> ?? e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
 
 <h2>
-? Pré-requistos
+? PrÃ©-requistos
 </h2>
 
 - [x] Java JDK 8 ou superior
@@ -11,29 +11,29 @@ Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalin
 
 <h2> ? Ementa</h2>
 <ol>
-    <li>Visão Geral</li>
-    <li>Pilha de Execução de um programa Java</li>
+    <li>VisÃ£o Geral</li>
+    <li>Pilha de ExecuÃ§Ã£o de um programa Java</li>
 </ol>
 
-<h2>Visão Geral</h2>
+<h2>VisÃ£o Geral</h2>
 
-<p>Erros de programação são denominados bugs e o processo de encontrar e corrigir bugs é chamado de depuração ou debugging.</p>
-<p>De forma geral, a depuração é uma tarefa difícil e trabalhosa, e a dificuldade varia de acordo com o ambiente de desenvolvimento, o que inclui a linguagem de programação e as ferramentas disponíveis, como depuradores.</p>
+<p>Erros de programaÃ§Ã£o sÃ£o denominados bugs e o processo de encontrar e corrigir bugs Ã© chamado de depuraÃ§Ã£o ou debugging.</p>
+<p>De forma geral, a depuraÃ§Ã£o Ã© uma tarefa difÃ­cil e trabalhosa, e a dificuldade varia de acordo com o ambiente de desenvolvimento, o que inclui a linguagem de programaÃ§Ã£o e as ferramentas disponÃ­veis, como depuradores.</p>
 
 <p>Existem duas grandes categorias que englobam a natureza do erro:</p>
 <ul>
-    <li><h3>Erros de Sintaxe:</h3>É um erro nas regras estabelecidas da linguagem:
+    <li><h3>Erros de Sintaxe:</h3>Ã‰ um erro nas regras estabelecidas da linguagem:
         <ol>
-            <li>Parênteses, chaves, colchetes que abrem mas não fecham.</li>
-            <li>Duas instruções sem um ponto-e-vírgula entre elas;</li>
-            <li>Uma palavra-chave sendo usada numa posição inesperada.</li>        
+            <li>ParÃªnteses, chaves, colchetes que abrem mas nÃ£o fecham.</li>
+            <li>Duas instruÃ§Ãµes sem um ponto-e-vÃ­rgula entre elas;</li>
+            <li>Uma palavra-chave sendo usada numa posiÃ§Ã£o inesperada.</li>        
         </ol>
     </li>
-    <li><h3>Erros de Semântica:</h3>  É um erro na "lógica do código", em sua semântica, o código está sintaticamente correto, porém não faz o que se esperava dele.
+    <li><h3>Erros de SemÃ¢ntica:</h3>  Ã‰ um erro na "lÃ³gica do cÃ³digo", em sua semÃ¢ntica, o cÃ³digo estÃ¡ sintaticamente correto, porÃ©m nÃ£o faz o que se esperava dele.
         <ol>
-            <li>Tentar dividir um número por uma String ou por zero.</li>
+            <li>Tentar dividir um nÃºmero por uma String ou por zero.</li>
             <li>Atribuir um valor incoerente a um tipo de dado.</li>
-            <li>Tentar fechar um arquivo que não foi aberto.</li>
+            <li>Tentar fechar um arquivo que nÃ£o foi aberto.</li>
         </ol>
     </li>
 </ul>
@@ -42,21 +42,21 @@ Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalin
     <img src="https://media1.giphy.com/media/9o9dh1JRGThC1qxGTJ/giphy.gif?cid=ecf05e47e4eg6hhx3ku1sec3j55c616p31sgn63m6kf0kcmu&rid=giphy.gif&ct=g" width="600" height="400">
 </div>
 
-<h2>Depuração/Debugging</h2>
-<p>Linguagens de alto nível tornam a depuração mais fácil, pois fornecem mais ferramentas para identificar erros, como o tratamento de exceções. </p>
-<p>Os depuradores funcionam assumindo o controle do tempo de execução de um programa e permitindo que você o observe e controle. Para fazer isso, ele mostra a pilha do programa e permite que você a atravesse em qualquer direção. Quando você está em um depurador, obtém uma imagem mais completa de um quadro de pilha do que quando olha os rastreamentos de pilha em uma mensagem de log.</p>
+<h2>DepuraÃ§Ã£o/Debugging</h2>
+<p>Linguagens de alto nÃ­vel tornam a depuraÃ§Ã£o mais fÃ¡cil, pois fornecem mais ferramentas para identificar erros, como o tratamento de exceÃ§Ãµes. </p>
+<p>Os depuradores funcionam assumindo o controle do tempo de execuÃ§Ã£o de um programa e permitindo que vocÃª o observe e controle. Para fazer isso, ele mostra a pilha do programa e permite que vocÃª a atravesse em qualquer direÃ§Ã£o. Quando vocÃª estÃ¡ em um depurador, obtÃ©m uma imagem mais completa de um quadro de pilha do que quando olha os rastreamentos de pilha em uma mensagem de log.</p>
 
-<h2>Pilha de Execução de um Programa Java/Stack Trace</h2>
-<p><h3>Pilha de Execução:</h3> Toda invocação de método é empilhada em uma estrutura de dados que isola a área de memória de cada um. Quando um método termina (retorna), ele volta para o método que o invocou.</p>
-<p><h3>Stack Trace:</h3> É a matriz onde encontramos a pilha de excecução da exceção. Em outras palavras, podemos dizer que o rastreamento da pilha busca (rastreio) para a próxima linha onde a exceção pode surgir.</p>
+<h2>Pilha de ExecuÃ§Ã£o de um Programa Java/Stack Trace</h2>
+<p><h3>Pilha de ExecuÃ§Ã£o:</h3> Toda invocaÃ§Ã£o de mÃ©todo Ã© empilhada em uma estrutura de dados que isola a Ã¡rea de memÃ³ria de cada um. Quando um mÃ©todo termina (retorna), ele volta para o mÃ©todo que o invocou.</p>
+<p><h3>Stack Trace:</h3> Ã‰ a matriz onde encontramos a pilha de excecuÃ§Ã£o da exceÃ§Ã£o. Em outras palavras, podemos dizer que o rastreamento da pilha busca (rastreio) para a prÃ³xima linha onde a exceÃ§Ã£o pode surgir.</p>
 
-<h2>? Links Úteis</h2>
+<h2>? Links Ãšteis</h2>
 <ul>
     <li>https://confluence.jetbrains.com/display/IntelliJIDEA/14.+Depurador</li>
     <li>https://www.eclipse.org/community/eclipse_newsletter/2017/june/article1.php</li>
 </ul>
 
-<h2>? Referências </h2>
+<h2>? ReferÃªncias </h2>
 <ul>
     <li>https://www.hostgator.com.br/blog/debug-desenvolvimento-web/</li>
     <li>https://www.alura.com.br/conteudo/java-excecoes</li>
@@ -76,10 +76,10 @@ Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalin
 
 <h2> ? Contribuindo </h2>
 
-Este repositório foi criado para fins de estudo, então contribua com ele.
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+Este repositÃ³rio foi criado para fins de estudo, entÃ£o contribua com ele.
+Se te ajudei de alguma forma, ficarei feliz em saber. E caso vocÃª conheÃ§a alguÃ©m que se identidique com o conteÃºdo, nÃ£o deixe de compatilhar.
 
-Se possível:
+Se possÃ­vel:
 
 ??  Star o projeto
 
@@ -89,4 +89,4 @@ Se possível:
 ------------
 
 Disponibilizado com ? por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
-Gratidão a professora Camila Cavalcanti!
+GratidÃ£o a professora Camila Cavalcanti!
