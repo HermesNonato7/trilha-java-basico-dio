@@ -73,7 +73,6 @@ Curso este ministrado pela Professora Camila Cavalcanti em nome da <strong> <a h
 <a href="https://www.linkedin.com/in/cami-la/">LinkedIn</a>
 </p>
 
-
 <h2> Contribuindo </h2>
 
 Este repositório foi criado para fins de estudo, então contribua com ele.
