@@ -3,7 +3,7 @@
 Curso este ministrado pela Professora Camila Cavalcanti em nome da <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> ?? e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
 
 <h2>
-? Pré-requistos
+ Pré-requistos
 </h2>
 
 - [x] Java JDK 8 ou superior
@@ -50,13 +50,13 @@ Curso este ministrado pela Professora Camila Cavalcanti em nome da <strong> <a h
 <p><h3>Pilha de Execução:</h3> Toda invocação de método é empilhada em uma estrutura de dados que isola a área de memória de cada um. Quando um método termina (retorna), ele volta para o método que o invocou.</p>
 <p><h3>Stack Trace:</h3> É a matriz onde encontramos a pilha de excecução da exceção. Em outras palavras, podemos dizer que o rastreamento da pilha busca (rastreio) para a próxima linha onde a exceção pode surgir.</p>
 
-<h2>? Links Úteis</h2>
+<h2> Links Úteis</h2>
 <ul>
     <li>https://confluence.jetbrains.com/display/IntelliJIDEA/14.+Depurador</li>
     <li>https://www.eclipse.org/community/eclipse_newsletter/2017/june/article1.php</li>
 </ul>
 
-<h2>? Referências </h2>
+<h2> Referências </h2>
 <ul>
     <li>https://www.hostgator.com.br/blog/debug-desenvolvimento-web/</li>
     <li>https://www.alura.com.br/conteudo/java-excecoes</li>
@@ -65,7 +65,7 @@ Curso este ministrado pela Professora Camila Cavalcanti em nome da <strong> <a h
     <li>https://www.caelum.com.br/apostila-java-orientacao-objetos/excecoes-e-controle-de-erros#exercicio-para-comecar-com-os-conceitos</li>
 </ul>
 
-<h2>? ?Redes Socias</h2>
+<h2> Redes Socias</h2>
 <p align="center">
 <a href="https://www.youtube.com/channel/UCqchrwxLd023IrA8KlCpH9g">YouTube</a> ??
 <a href="https://www.instagram.com/estudant.i/">Instagram 1</a> ??
@@ -74,19 +74,19 @@ Curso este ministrado pela Professora Camila Cavalcanti em nome da <strong> <a h
 </p>
 
 
-<h2> ? Contribuindo </h2>
+<h2> Contribuindo </h2>
 
 Este repositório foi criado para fins de estudo, então contribua com ele.
 Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 
 Se possível:
 
-??  Star o projeto
+  Star o projeto
 
-? Encontrar e relatar issues
+ Encontrar e relatar issues
 
 
 ------------
 
-Disponibilizado com ? por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Disponibilizado com  por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 Gratidão a professora Camila Cavalcanti!
