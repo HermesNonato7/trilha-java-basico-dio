@@ -1,3 +1,5 @@
+package Exceptions;
+
 import javax.swing.*;
 
 public class UncheckedException {
