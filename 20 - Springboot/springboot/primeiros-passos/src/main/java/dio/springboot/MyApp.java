@@ -1,4 +1,4 @@
-package dio.spingboot;
+package dio.springboot;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
