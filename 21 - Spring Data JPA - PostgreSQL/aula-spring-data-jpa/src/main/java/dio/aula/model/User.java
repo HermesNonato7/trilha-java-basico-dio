@@ -1,5 +1,6 @@
 package dio.aula.model;
 
+
 import jakarta.persistence.*;
 
 @Entity
