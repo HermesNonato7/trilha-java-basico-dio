@@ -8,33 +8,44 @@ Java é uma das linguagens back-end mais utilizada por desenvolvedores de todo o
 
 | Java Developer |
 |-------------------------------------|
-| 1. Bem-vindo à DIO |
-| 2. Lógica de Programação Essencial |
-| 3. Introdução ao Git e ao GitHub |
-| 4. Fundamentos de Arquitetura de Sistemas |
-| 5. Desenvolvimento básico em Java |
-| 6. Introdução a Programação com Java |
-| 7. Implementando Collections e Streams com Java |
-| 8. Fundamentos Aritméticos em Java |
-| 9. Desenvolvimento avançado em Java |
-| 10. Linux: A introdução ao sistema operacional |
-| 11. Ordenação e Filtros em Java |
-| 12. Introdução ao framework Spring Boot |
-| 13. Arquitetura de Sistemas Avançado |
-| 14. Introdução a Busca e Substituição em Java |
-| 15. Conceitos e melhores práticas com bancos de dados PostgreSQL |
-| 16. Introdução a orquestração de contêineres com Docker |
-| 17. Trabalhando com Banco de Dados utilizando JDBC e JPA |
-| 18. Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot |
-| 19. Projetos ágeis com SCRUM |
-| 20. Solução de Problemas com Java |
-| 21. Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção |
-| 22. Resolvendo Algoritmos com Java |
-| 23. Criando aplicações web com Spring Web MVC |
-| 24. Introdução a JSF para aplicação web |
-| 25. Crie seu gerenciador de salas de reuniões com Java e Angular |
-| 26. Aprenda a aplicar testes com Java |
-| 27. Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja |
+| 1. Seja protagonista neste bootcamp |
+| 2. Introdução ao desenvolvimento moderno de softwares |
+| 3. Princípios de desenvolvimento de software |
+| 4. Introdução a programação e ao pensamento computacional |
+| 5. Introdução ao Git e ao Github |
+| 6. Criando seu primeiro repositório no Github para compartilhar seu progresso |
+| 7. Conhecendo a linguagem de programação Java |
+| 8. Introdução à plataforma Java |
+| 9. Ambiente de desenvolvimento Java |
+| 10. Aprendendo a sintaxe Java |
+| 11. Lógica condicional e controles de fluxos em Java |
+| 12. Estrutura de repetição e Arrays em Java |
+| 13. Entenda Métodos Java |
+| 14. Dominando algoritimos básicos em Java |
+| 14.1 Desafio: Mesada do sobrinho |
+| 14.2 Desafio: Downlouds de pacotes |
+| 14.3 Desafio: Leitura da Gertrudes |
+| 14.4 Desafio: Lojinha de Doces |
+| 14.5 Desafio: Industria da multa |
+| 15. Programação Orientada a Objetos |
+| 16. Trabalho com Collections Java |
+| 17. Debugging Java |
+| 18. Tratamento de Exceções em Java |
+| 19. Abstraindo um bootcamp usando orientação a objetos em Java |
+| 20. Ganhando produtividade com Spring Framework |
+| 21. Principais protocolos de comunicação da internet |
+| 22. Gerenciamento de dependência e build em Java com Maven |
+| 23. Imersão no Spring Framework com Spring Boot |
+| 24. Criando uma API REST documentada com Spring Web e Swagger |
+| 25. Explorando padrões de projetos na prática com Java |
+| 26. Dominado algoritimo  intermediário com desafios de código em Java Intermediários |
+| 26.1 Desafio: Salvando músicas |
+| 26.1 Desafio: Pontos na carteira |
+| 26.2 Desafio: Imóveis disponíveis |
+| 26.3 Desafio: Dc Monalds |
+| 26.4 Desafio: Camarote do Blue Cold Ice Cubes |
+| 27. Fortalecendo sua carreira profissional |
+
 
 #### Bem-vindo ao curso!
 
