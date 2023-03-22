@@ -1,9 +1,10 @@
-# java-basico-dio
-Repositório para armazenar todo o conteudo do curso de Java Básico
+# BootCamp Backend Java Developer
 
-a passo da tecnologia e desenvolverá projetos 100% práticos.
+## Java Developer
 
-### :clipboard: Intermediário   :computer: 27 atividades  :clock430: 120 hrs
+Java é uma das linguagens back-end mais utilizada por desenvolvedores de todo o mundo. Neste bootcamp você aprenderá o passo a passo da tecnologia e desenvolverá projetos 100% práticos.
+
+### :clipboard: Intermediário   :computer: 27 atividades  :clock430: 87 hrs :trophy: 10 desafios d códigos :white_check_mark: 3 projetos
 
 | Java Developer |
 |-------------------------------------|
