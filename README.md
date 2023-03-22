@@ -2,7 +2,7 @@
 
 ## Java Developer
 
-Java é uma das linguagens back-end mais utilizada por desenvolvedores de todo o mundo. Neste bootcamp você aprenderá o passo a passo da tecnologia e desenvolverá projetos 100% práticos.
+Java é uma das linguagens back-end mais utilizada por desenvolvedores de todo o mundo. Neste bootcamp aprendi o passo a passo da tecnologia e desenvolvi projetos 100% práticos.
 
 ### :clipboard: Intermediário   :computer: 27 atividades  :clock430: 120 hrs :trophy: 10 desafios d códigos :white_check_mark: 3 projetos
 
